@@ -1,0 +1,8 @@
+*.o
+LeakSanitizer/
+pipex
+infile
+outfile
+scripts/
+obj/
+obj_bonus/

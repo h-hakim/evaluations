@@ -1,0 +1,2844 @@
+    1  cd libft-pain
+    2  ls
+    3  ./pain.sh
+    4  cd ..
+    5  ls
+    6  git clone https://github.com/alelievr/libft-unit-test
+    7  ls
+    8  cd libft-unit-test
+    9  ls
+   10  make f
+   11  make f
+   12  make f
+   13  make f
+   14  clear
+   15   cd ..
+   16  ls
+   17  make clean
+   18  ls
+   19  make fclean
+   20  ls
+   21  ls 
+   22   fclean
+   23  ls
+   24  ls
+   25  cd libft
+   26  ls
+   27  ls
+   28   gcc ft_strchr.c
+   29   gcc ft_strchr.c -o .o
+   30   gcc ft_strchr.c -o .o
+   31   gcc ft_strchr.c -o .o
+   32  ./a
+   33  ./a
+   34   gcc ft_strchr.c -o .o
+   35  gcc playbook.c
+   36  ./a.out
+   37  gcc playbook.c
+   38  gcc playbook.c
+   39  gcc playbook.c
+   40  ./a.out
+   41  man strchr
+   42  gcc playbook.c
+   43  gcc playbook.c
+   44  gcc playbook.c
+   45  gcc playbook.c
+   46  gcc playbook.c
+   47  ./a.out
+   48  gcc playbook.c
+   49  gcc playbook.c
+   50  gcc playbook.c
+   51  gcc playbook.c
+   52  gcc playbook.c && ./a.out
+   53  gcc playbook.c && ./a.out
+   54  gcc playbook.c && ./a.out
+   55  gcc playbook.c && ./a.out
+   56  gcc playbook.c && ./a.out
+   57  gcc playbook.c && ./a.out
+   58  man strrchr
+   59  gcc playbook.c && ./a.out
+   60  gcc playbook.c && ./a.out
+   61  gcc playbook.c && ./a.out
+   62  gcc playbook.c && ./a.out
+   63  gcc playbook.c && ./a.out
+   64  gcc playbook.c && ./a.out
+   65  gcc playbook.c && ./a.out
+   66  gcc playbook.c && ./a.out
+   67  gcc playbook.c && ./a.out
+   68  gcc playbook.c && ./a.out
+   69  gcc playbook.c && ./a.out
+   70  gcc playbook.c && ./a.out
+   71  gcc playbook.c && ./a.out
+   72  gcc playbook.c && ./a.out
+   73  gcc playbook.c && ./a.out
+   74  gcc playbook.c && ./a.out
+   75  gcc playbook.c && ./a.out
+   76  gcc playbook.c && ./a.out
+   77  gcc playbook.c && ./a.out
+   78  gcc playbook.c && ./a.out
+   79  gcc playbook.c && ./a.out
+   80  clear
+   81  man strrchr
+   82  man strncmp
+   83  gcc playbook.c && ./a.out
+   84  gcc playbook.c && ./a.out
+   85  ls 
+   86   cd libft/
+   87  ls
+   88  cc playbook.c .o
+   89  gcc playbook.c ./a.out
+   90  gcc playbook.c .o
+   91  gcc playbook.c
+   92  ./a.out 
+   93  gcc playbook.c ./a.out
+   94  gcc playbook.c
+   95  ./a.out 
+   96  gcc playbook.c
+   97  gcc playbook.c
+   98  ./a.out 
+   99  gcc playbook.c
+  100  ./a.out 
+  101  gcc playbook.c
+  102  ./a.out 
+  103  gcc playbook.c
+  104  ./a.out 
+  105  gcc playbook.c
+  106  ./a.out 
+  107  gcc playbook.c
+  108  gcc playbook.c
+  109  gcc playbook.c
+  110  gcc playbook.c
+  111  gcc playbook.c
+  112  clear
+  113  gcc playbook.c
+  114  gcc playbook.c
+  115  gcc playbook.c
+  116  gcc playbook.c
+  117  gcc playbook.c
+  118  clear
+  119  gcc playbook.c
+  120  gcc playbook.c
+  121  gcc playbook.c
+  122  gcc playbook.c
+  123  gcc playbook.c
+  124  gcc playbook.c
+  125  gcc playbook.c
+  126  gcc playbook.c
+  127  gcc playbook.c
+  128  clear
+  129  gcc playbook.c
+  130  gcc playbook.c
+  131  gcc playbook.c
+  132  gcc playbook.c
+  133  CLEAR
+  134  gcc playbook.c
+  135  gcc playbook.c
+  136  gcc playbook.c
+  137  gcc playbook.c
+  138  clear
+  139  ls 
+  140   cat > memcpy.c 
+  141  ls
+  142  open ft_memset.c
+  143  man memset
+  144  gcc playbook.c a.o
+  145  gcc playbook.c 
+  146  gcc playbook.c 
+  147  gcc playbook.c 
+  148  gcc playbook.c 
+  149  gcc playbook.c 
+  150  ls
+  151   cd llibft
+  152  cd libft
+  153  ls
+  154   gcc playbook.c 
+  155   gcc playbook.c 
+  156   gcc playbook.c 
+  157   gcc playbook.c 
+  158   gcc playbook.c 
+  159  clear
+  160  ls 
+  161       clear
+  162  ls
+  163  git init
+  164  git add README.md
+  165  git add -A
+  166  git status
+  167  git commit -M 
+  168  git commit -M -a
+  169  git commit -a
+  170  ls
+  171  clear
+  172  ls
+  173  gcc playbook.c
+  174  clear
+  175  gcc playbook.c
+  176  gcc playbook.c
+  177  gcc playbook.c
+  178  gcc playbook.c
+  179  gcc playbook.c
+  180  gcc playbook.c
+  181  gcc playbook.c
+  182  gcc playbook.c
+  183  gcc playbook.c
+  184  gcc playbook.c
+  185  gcc playbook.c
+  186  gcc playbook.c
+  187  gcc playbook.c
+  188  man memset
+  189  gcc playbook.c
+  190  clear
+  191  gcc playbook.c
+  192  ./a.out
+  193  gcc playbook.c
+  194  ./a.out
+  195  gcc playbook.c
+  196  ./a.out
+  197  gcc playbook.c
+  198  ./a.out
+  199  gcc playbook.c
+  200  ./a.out
+  201  gcc playbook.c
+  202  ls
+  203  cd Desktop
+  204  ls
+  205  cd Code
+  206  ls
+  207  cd 42src
+  208  ls
+  209  cd libft
+  210  ls
+  211  vim libft.h
+  212  gcc ft_isalnum.c
+  213  vim ft_isalnum.c
+  214  vim ft_isdigit.c
+  215  vim ft_isalpha.c
+  216  gcc -v ft_isalnum.c
+  217  clear
+  218  ls
+  219  vim libft.h
+  220  gcc ft_isalnum.c
+  221  vim ft_isalnum.c
+  222  gcc ft_isalnum.c
+  223  fg
+  224  fg
+  225  gcc ft_isalnum.c
+  226  vim libft.h
+  227  vim libft.h
+  228  vim ft_isalnum.c
+  229  gcc ft_isalnum.c
+  230  ls
+  231  fg
+  232  vim ft_isdigit.c
+  233  vim ft_isalpha.c
+  234  vim libft.h
+  235  gcc ft_isalnum.c
+  236  vim libft.h
+  237  fg
+  238  gcc ft_isalnum.c
+  239  q!
+  240  gcc ft_isalnum.c
+  241  vim ft_isalnum.c
+  242  gcc ft_isalnum.c
+  243  gcc ft_isalnum.c
+  244  gcc ft_isalnum.c
+  245  gcc ft_isalnum.c
+  246  ls
+  247  gcc ft_isalnum.c
+  248  gcc ft_isalnum.c
+  249  gcc ft_isalnum.c ft_isalpha.c ft_isdigit.c
+  250  ./a.out
+  251  gcc ft_isalnum.c -I
+  252  gcc ft_isalnum.c -I.
+  253  gcc -I. ft_isalnum.c 
+  254  gcc ft_isalnum.c libft.h
+  255  clear
+  256  ls
+  257  git -f
+  258  git config user.email "hmh_hakim@hotmail.com"
+  259  git config user.name "hhakim"
+  260  git clone git@github.com:h-hakim/libft.git
+  261  clear 
+  262  git signout
+  263  git ignore 
+  264  gitignore libft
+  265  ls
+  266  clear
+  267  man memcpy 
+  268  mkdir rev_print
+  269  mkdir rev_print.c
+  270  pwd
+  271  cd Desktop
+  272  bash -c "$(curl https://grademe.fr)"
+  273  man memchr
+  274  man mem
+  275  man cmp
+  276  man memcmp
+  277  man memmove
+  278  clear
+  279  man strlen
+  280  man memmove
+  281  ls
+  282  man memcpy
+  283  gcc playbook.c
+  284  man isalnum
+  285  clear
+  286  man memcpy
+  287  gcc playbook.c
+  288  ./a.out
+  289  gcc playbook.c
+  290  gcc playbook.c
+  291  ./a.out
+  292  gcc playbook.c
+  293  gcc playbook.c
+  294  ./a
+  295  ./a.out
+  296  man memset
+  297  ./a
+  298  man memset
+  299  gcc playbook.c
+  300  ./a
+  301  gcc playbook.c
+  302  ./a.out
+  303  gcc playbook.c
+  304  ./a.out
+  305  gcc playbook.c
+  306  ./a.out
+  307  gcc playbook.c
+  308  ./a.out
+  309  gcc playbook.c
+  310  ./a.out
+  311  ./a.out
+  312  gcc playbook.c
+  313  ./a.out
+  314  gcc playbook.c
+  315  gcc playbook.c
+  316  ./a.out
+  317  clear
+  318  gcc playbook.c
+  319  ./a.out
+  320  gcc playbook.c
+  321  gcc playbook.c
+  322  gcc playbook.c
+  323  gcc playbook.c
+  324  gcc playbook.c
+  325  gcc playbook.c
+  326  gcc playbook.c
+  327  ./a.out
+  328  gcc playbook.c
+  329  gcc playbook.c
+  330  gcc playbook.c
+  331  gcc playbook.c
+  332  ./a.out
+  333  gcc playbook.c
+  334  ./a.out
+  335  gcc playbook.c
+  336  ./a.out
+  337  clear
+  338  ls
+  339  man memcpy
+  340  gcc playbook.c
+  341  gcc playbook.c
+  342  gcc playbook.c
+  343  ./a.out
+  344  clear
+  345  man bzero
+  346   cat > ft_bzero.c
+  347  ls
+  348  open ft_bzero.c
+  349  man bzzero
+  350  man bzero
+  351  gcc playbook.c
+  352  gcc playbook.c
+  353  gcc playbook.c
+  354  gcc playbook.c
+  355  ./a.out
+  356  gcc playbook.c
+  357  ./a.out
+  358  gcc playbook.c
+  359  ./a.out
+  360  gcc playbook.c
+  361  ./a.out
+  362  ./a.out
+  363  gcc playbook.c
+  364  ./a.out
+  365  gcc playbook.c
+  366  ./a.out
+  367  gcc playbook.c
+  368  gcc playbook.c
+  369  gcc playbook.c
+  370  ./a.out
+  371  gcc playbook.c
+  372  ./a.out
+  373  gcc playbook.c
+  374  ./a.out
+  375  gcc playbook.c
+  376  ./a.out
+  377  gcc playbook.c
+  378  ./a.out
+  379  gcc playbook.c
+  380  ./a.out
+  381  gcc playbook.c
+  382  ./a.out
+  383  gcc playbook.c
+  384  gcc playbook.c
+  385  gcc playbook.c
+  386  ./a.out
+  387  gcc playbook.c
+  388  gcc playbook.c
+  389  ./a.out
+  390  gcc playbook.c
+  391  ./a.out
+  392  gcc playbook.c
+  393  ./a.out
+  394  CLEAR
+  395  MAN MEMCHR
+  396  man memchr
+  397   cat > memchr.c
+  398  open memchr
+  399  clear
+  400  man printf 
+  401  ls
+  402  clear
+  403  gcc playbook.c
+  404  gcc playbook.c
+  405  gcc playbook.c
+  406  gcc playbook.c
+  407  ./a.out
+  408  gcc playbook.c
+  409  ./a.out
+  410  clear
+  411   cat > ft_memcmp.c
+  412  open ft_memcmp
+  413  open ft_memcmp.c
+  414  gcc playbook.c
+  415  gcc playbook.c
+  416  gcc playbook.c
+  417  gcc playbook.c
+  418  gcc playbook.c
+  419  gcc playbook.c
+  420  gcc playbook.c
+  421  ./a.out
+  422  gcc playbook.c
+  423  ./a.out
+  424  gcc playbook.c
+  425  ./a.out
+  426  gcc playbook.c
+  427  ./a.out
+  428  gcc playbook.c
+  429  ./a.out
+  430  gcc playbook.c
+  431  gcc playbook.c
+  432  ./a.out
+  433  gcc playbook.c
+  434  ./a.out
+  435  gcc playbook.c
+  436  ./a.out
+  437  gcc playbook.c
+  438  ./a.out
+  439  gcc playbook.c
+  440  ./a.out
+  441  gcc playbook.c
+  442  ./a.out
+  443  gcc playbook.c
+  444  ./a.out
+  445  cleear
+  446  clear
+  447  cat > ft_memmove.c
+  448  open ft_memmove.c
+  449  l
+  450  ls
+  451   gcc playbook.c
+  452   gcc playbook.c
+  453   gcc playbook.c
+  454  ./a.out
+  455   gcc playbook.c
+  456  ./a.out
+  457   gcc playbook.c
+  458  ./a.out
+  459   gcc playbook.c
+  460   gcc playbook.c
+  461  ./a.out
+  462   gcc playbook.c
+  463  ./a.out
+  464   gcc playbook.c
+  465  ./a.out
+  466  gcc playbook.c ft_strlen.c
+  467  gcc playbook.c ft_strlen.c
+  468  gcc playbook.c ft_strlen.c
+  469  ./a.out
+  470  gcc playbook.c ft_strlen.c
+  471  ./a.out
+  472  gcc playbook.c ft_strlen.c
+  473  gcc playbook.c ft_strlen.c
+  474  ./a.out
+  475  gcc playbook.c ft_strlen.c
+  476  ./a.out
+  477  gcc playbook.c ft_strlen.c
+  478  ./a.out
+  479  gcc playbook.c ft_strlen.c
+  480  ./a.out
+  481  gcc playbook.c ft_strlen.c
+  482  ./a.out
+  483  gcc playbook.c ft_strlen.c
+  484  ./a.out
+  485  gcc playbook.c ft_strlen.c
+  486  ./a.out
+  487  gcc playbook.c ft_strlen.c
+  488  ./a.out
+  489  gcc playbook.c ft_strlen.c
+  490  gcc playbook.c ft_strlen.c
+  491  ./a.out
+  492  gcc playbook.c ft_strlen.c
+  493  ./a.out
+  494  gcc playbook.c ft_strlen.c
+  495  ./a.out
+  496  gcc playbook.c ft_strlen.c
+  497  ./a.out
+  498  gcc playbook.c ft_strlen.c
+  499  ./a.out
+  500  clear
+  501  git config
+  502  clear
+  503   git user
+  504  git --help
+  505  man strlcpy
+  506  ls
+  507  cat > ft_strlcpy.c ft_strnstr.c ft_strlcat.c
+  508  cat >ft_strlcat.c
+  509  cat > ft_stnstr.c
+  510  ls
+  511  ls
+  512  clear
+  513  gcc playbook.c
+  514  gcc playbook.c
+  515  gcc playbook.c
+  516  ./a.out
+  517  gcc playbook.c
+  518  ./a.out
+  519  gcc playbook.c
+  520  gcc playbook.c
+  521  ./a.out
+  522  clear
+  523  man strlcpy
+  524  ls
+  525  gcc ft_memchr.c
+  526  clear
+  527  norminette ft_memchr.c
+  528  norminette ft_memchr.c
+  529  man ar
+  530  ar libft.h
+  531  gcc ft_bzero.c
+  532  gcc ft_memchr.c 
+  533  gcc ft_memchr.c 
+  534  clear
+  535  gcc ft_strlcpy.c
+  536  gcc ft_strlcpy.c
+  537  gcc ft_strlcpy.c
+  538  gcc ft_strlcpy.c
+  539  gcc ft_strlcpy.c
+  540  norminette ft_strrchr.c
+  541  norminette ft_strrchr.c
+  542  clear
+  543  man strcat
+  544  gcc ft_strlcat.c
+  545  man strlcat
+  546  ls
+  547  man memcmp
+  548  gcc ft_memcmp.c
+  549  cllear
+  550  clear
+  551  gcc ft_memcmp.c
+  552  man memcmp
+  553  gcc ft_memcmp.c
+  554  gcc ft_memcmp.c
+  555  clear
+  556  gcc ft_memcmp.c
+  557  gcc ft_memcmp.c
+  558  gcc ft_memcmp.c
+  559  clear
+  560  gcc ft_memcmp.c
+  561  gcc ft_memcmp.c
+  562  gcc ft_memcmp.c
+  563  ./a.out
+  564  clear
+  565  gcc ft_memcmp.c
+  566  ./a.out
+  567  gcc ft_memcmp.c
+  568  ./a.out
+  569  clear
+  570  man  strlcat
+  571  clear
+  572  man strlcat
+  573  clear
+  574  ls
+  575  norminette ft_strlcat.c
+  576  norminette ft_strlcat.c
+  577  gcc playbook.c
+  578  gcc playbook.c
+  579  gcc playbook.c
+  580  gcc playbook.c
+  581  gcc playbook.c
+  582  gcc playbook.c
+  583  ./a.out
+  584  gcc playbook.c
+  585  ./a.out
+  586  gcc playbook.c
+  587  ./a.out
+  588  gcc playbook.c
+  589  ./a.out
+  590  gcc playbook.c
+  591  ./a.out
+  592  gcc playbook.c
+  593  ./a.out
+  594  clear
+  595  gcc playbook.c
+  596  clear
+  597  gcc playbook.c
+  598  ./a.out
+  599  gcc playbook.c
+  600  ./a.out
+  601  gcc playbook.c
+  602  ./a.out
+  603  gcc playbook.c
+  604  gcc playbook.c
+  605  gcc playbook.c
+  606  clear
+  607  gcc playbook.c
+  608  ls
+  609  gcc playbook.c
+  610  clear
+  611  gcc playbook.c
+  612  gcc playbook.c
+  613  ./a.out
+  614  gcc playbook.c
+  615  ./a.out
+  616  gcc playbook.c
+  617  ./a.out
+  618  gcc playbook.c
+  619  ./a.out
+  620  gcc playbook.c
+  621  ./a.out
+  622  gcc playbook.c
+  623  ./a.out
+  624  clear
+  625  gcc playbook.c
+  626  gcc playbook.c
+  627  gcc playbook.c
+  628  ./a.out
+  629  gcc playbook.c
+  630  ./a.out
+  631  clear
+  632  ./a.out
+  633  gcc playbook.c
+  634  ./a.out
+  635  gcc playbook.c
+  636  ./a.out
+  637  gcc playbook.c
+  638  ./a.out
+  639  gcc playbook.c
+  640  ./a.out
+  641  gcc playbook.c
+  642  ./a.out
+  643  gcc playbook.c
+  644  ./a.out
+  645  gcc playbook.c
+  646  ./a.out
+  647  gcc playbook.c
+  648  ./a.out
+  649  gcc playbook.c
+  650  ./a.out
+  651  gcc playbook.c
+  652  ./a.out
+  653  clear
+  654   norminette ft_strlcat.c
+  655   norminette ft_strlcat.c
+  656  norminette ft_strlcpy.c
+  657  man stnstr
+  658  man strnstr
+  659  gcc playbook.c
+  660  gcc playbook.c
+  661  gcc playbook.c
+  662  clear
+  663  gcc playbook.c
+  664  gcc playbook.c
+  665  gcc playbook.c
+  666  gcc playbook.c
+  667  clear
+  668  gcc playbook.c
+  669  gcc playbook.c
+  670  clear
+  671  gcc playbook.c
+  672  gcc playbook.c
+  673  gcc playbook.c
+  674  gcc playbook.c
+  675  ./a.out
+  676  gcc playbook.c
+  677  gcc playbook.c
+  678  ./a.out
+  679  gcc playbook.c
+  680  ./a.out
+  681  gcc playbook.c
+  682  ./a.out
+  683  gcc playbook.c
+  684  ./a.out
+  685  gcc playbook.c
+  686  ./a.out
+  687  gcc playbook.c
+  688  ./a.out
+  689  gcc playbook.c
+  690  ./a.out
+  691  ./a.out
+  692  ./a.out
+  693  gcc playbook.c
+  694  ./a.out
+  695  gcc playbook.c
+  696  ./a.out
+  697  gcc playbook.c
+  698  ./a.out
+  699  clear
+  700  gcc playbook.c
+  701  clear
+  702  gcc playbook.c
+  703  gcc playbook.c
+  704  ./a.out
+  705  gcc playbook.c
+  706  ./a.out
+  707  gcc playbook.c
+  708  ./a.out
+  709  clear
+  710  man strnstr
+  711  ls
+  712  gcc playbook.c 
+  713  gcc playbook.c 
+  714  ./a.out
+  715  gcc playbook.c 
+  716  ./a.out
+  717  gcc playbook.c 
+  718  ./a.out
+  719  norminette ft_strnstr.c
+  720  norminette ft_strnstr.c
+  721  norminette ft_strnstr.c
+  722  norminette ft_strnstr.c
+  723  norminette ft_strnstr.c
+  724  clear
+  725  man atoi 
+  726  emacs
+  727  ls
+  728  gcc playbook.c 
+  729  ./a.out
+  730  gcc playbook.c 
+  731  ./a.out
+  732  gcc playbook.c 
+  733  ./a.out
+  734  gcc playbook.c 
+  735  ./a.out
+  736  gcc playbook.c 
+  737  ./a.out
+  738  gcc playbook.c 
+  739  ./a.out
+  740  gcc playbook.c 
+  741  ./a.out
+  742  ./a.out
+  743  gcc playbook.c 
+  744  ./a.out
+  745  gcc playbook.c 
+  746  ./a.out
+  747  clear
+  748  man atoi
+  749  gcc playbook.c 
+  750  ./a.out
+  751  gcc playbook.c 
+  752  ./a.out
+  753  gcc playbook.c 
+  754  ./a.out
+  755  gcc playbook.c 
+  756  gcc playbook.c 
+  757  ./a.out
+  758  gcc playbook.c 
+  759  ./a.out
+  760  clear
+  761  gcc playbook.c 
+  762  ./a.out
+  763  gcc playbook.c 
+  764  ./a.out
+  765  gcc playbook.c 
+  766  ./a.out
+  767  gcc playbook.c 
+  768  ./a.out
+  769  gcc playbook.c 
+  770  ./a.out
+  771  clear
+  772  gcc playbook.c 
+  773  clear
+  774  gcc playbook.c 
+  775  ./a.out
+  776  gcc playbook.c 
+  777  ./a.out
+  778  gcc playbook.c 
+  779  ./a.out
+  780  gcc playbook.c 
+  781  ./a.out
+  782  gcc playbook.c 
+  783  ./a.out
+  784  clear
+  785  man is space
+  786  man isspace
+  787  gcc playbook.c 
+  788  man isspace
+  789  ./a.out
+  790  gcc playbook.c 
+  791  ./a.out
+  792  clear
+  793  cat > ft_atoi.c
+  794  man atoi
+  795  gcc playbook.c 
+  796  man atoi
+  797  ./a.out
+  798  gcc playbook.c 
+  799  ./a.out
+  800  clear
+  801  ./a.out
+  802  gcc playbook.c 
+  803  ./a.out
+  804  gcc playbook.c 
+  805  ./a.out
+  806  gcc playbook.c 
+  807  ./a.out
+  808  gcc playbook.c 
+  809  ./a.out
+  810  gcc playbook.c 
+  811  ./a.out
+  812  gcc playbook.c 
+  813  ./a.out
+  814  gcc playbook.c 
+  815  ./a.out
+  816  cd 42src
+  817  git clone git@github.com:h-hakim/libft.git
+  818  git help
+  819  git clone https://github.com/h-hakim/libft.git
+  820  cd libft
+  821  git add -A
+  822  git commit -m "first push"
+  823  git push
+  824  clear
+  825  ls
+  826  git status
+  827  man open
+  828  ls 
+  829   cd Desktop/Code/42src
+  830  ls
+  831  open (libft)
+  832  man open
+  833   open libft
+  834  open libft vscode
+  835  man open
+  836  open libft -a vscode
+  837  open libft -a Visual Studio Code
+  838  open libft -a vs
+  839  man open
+  840  ls 
+  841  cd 
+  842  ls
+  843  cd Applications
+  844  ls
+  845  cd ..
+  846  ls
+  847  cdDEsk
+  848  cd Desktop
+  849  ls
+  850  ls -a
+  851   cd..
+  852  cd ..
+  853  ls
+  854  cd ..
+  855  ls
+  856  cd ezpiro-m
+  857  ls
+  858  cd Desktop
+  859  cd ..
+  860  bocal
+  861  cd bocal
+  862  clear
+  863  ls
+  864  cd hhakim
+  865  ls
+  866  cd /Applications
+  867  ls
+  868  Visual Studio Code.app
+  869  cd ..
+  870  ls]
+  871  pwd
+  872  ls
+  873  cd Users
+  874  ls
+  875   cd hhakim
+  876  ls
+  877  cd Desktop/
+  878  ls
+  879  open -a Applications/Visual Studio Code.app Code/42src/libft
+  880  clear
+  881  ls
+  882  cd Code
+  883  cd 42src/libft
+  884  ls
+  885  clear
+  886  ls]
+  887  ls
+  888  cd libft-old
+  889  gcc playbook.c
+  890  gcc playbook.c
+  891  clear
+  892  gcc playbook.c
+  893  gcc playbook.c
+  894  clear
+  895  gcc playbook.c
+  896  gcc playbook.c
+  897  clear
+  898  gcc playbook.c
+  899  gcc playbook.c
+  900  clear
+  901  gcc playbook.c
+  902  gcc playbook.c
+  903  gcc playbook.c
+  904  gcc playbook.c
+  905  gcc playbook.c
+  906  clear
+  907  cd
+  908  bash -c "$(curl -fsSL https://raw.github.com/xicodomingues/francinette/master/bin/install.sh)"
+  909  bash -c "$(curl -fsSL https://raw.github.com/xicodomingues/francinette/master/bin/update.sh)"
+  910  clear
+  911  ls
+  912   cd Desktop
+  913  ls
+  914  cd Code
+  915  ls
+  916   cd 42src
+  917  ls
+  918   cd libft-old
+  919  ls
+  920  gcc playbook.c
+  921  gcc playbook.c
+  922  ./a.out
+  923  gcc playbook.c
+  924  gcc playbook.c
+  925  gcc playbook.c
+  926  ./a.out
+  927  ls
+  928   cd libft
+  929  man calloc
+  930  man malloc
+  931  git config 
+  932  qclear
+  933  clear
+  934  git config --global 
+  935  clear
+  936  git config --global user.name "hhakim"
+  937  git config --global user.name "h-hakim"
+  938  git config --global user.email "hhakim@student.42heilbronn.de"
+  939  git config --list --show --origin
+  940  git config --list --show -origin
+  941  git config --list --show-origin
+  942  ls
+  943  git commit ""
+  944  git commit -1
+  945  git commit -a
+  946  git push 
+  947  cd .. 
+  948  ls
+  949  mkdir tsar
+  950  ls
+  951  cd tsar 
+  952  git init
+  953   cat > ft_sqrt.c 
+  954  cat > ft_fibonacci_seq.c
+  955  ls
+  956  git add -a
+  957  git add -A
+  958  git commit ""
+  959  git commit -a
+  960  git commit -a
+  961  git commit -m "this is a test"
+  962  git push -a
+  963  git push -A
+  964  git push -all
+  965  git push --all
+  966  git status
+  967  git push 
+  968  git add README
+  969  ls
+  970  git config --global core.editor
+  971  git commit
+  972  cat > README.md
+  973  git commit 
+  974  git add README.md
+  975  git commit 
+  976  clear
+  977  git status
+  978  git commit
+  979  ls
+  980  cd Desktop/Code/42src
+  981  ls
+  982  cd tsar
+  983  git status
+  984  git commit
+  985  git config  --global core.editor vim
+  986  ls
+  987  git config --global 
+  988  git config --global -l
+  989  git commit
+  990  git config --global core.editor "vim --nofork"
+  991  git commit
+  992  clear 
+  993  git config --global core.editor "vim"
+  994  git config --global status
+  995  git config --global
+  996  git status
+  997  git commit
+  998  /Users/hhakim/Downloads/gh_2.19.0_macOS_amd64/bin/gh ; exit;
+  999  /Users/hhakim/Downloads/gh_2.19.0_macOS_amd64/bin/gh ; exit;
+ 1000  /Users/hhakim/Downloads/gh_2.19.0_macOS_amd64/bin/gh ; exit;
+ 1001  ls
+ 1002  cd /Desktop/Code/42src/tsar
+ 1003  cd Desktop/Code/42src/tsar
+ 1004  ls
+ 1005  git status
+ 1006  git commit
+ 1007  git status
+ 1008  git commit
+ 1009  git push 
+ 1010  git push <tsar>
+ 1011  git status
+ 1012  git status
+ 1013  git init tsar
+ 1014  git remove tsar
+ 1015  git rm tsar
+ 1016  ls
+ 1017  git rm "tsar"
+ 1018  git rm tsar
+ 1019  git push https://github.com/h-hakim
+ 1020  git push --set -upstream https://github.com/h-hakim 
+ 1021  git push --set -upstream https://github.com/h-hakim 
+ 1022  git push --set-upstream https://github.com/h-hakim master
+ 1023  gh repo create 
+ 1024  gh repo create 
+ 1025  '/Users/hhakim/Downloads/gh_2.19.0_macOS_amd64/bin/gh'
+ 1026   gh issue create
+ 1027  'gh issue create -R github.com/cli/cli'
+ 1028  git rem tsar 
+ 1029  git rm tsar
+ 1030  cd
+ 1031  ls
+ 1032  cd Desktop/Code/42src
+ 1033  ls
+ 1034  cd libft-old
+ 1035  ls
+ 1036  git rm 
+ 1037  rm dir .git
+ 1038  rm -rf .git
+ 1039  ls
+ 1040  ls
+ 1041   cd tsar
+ 1042  ls
+ 1043  git push -u origin master 
+ 1044  git remote add origin h-hakim@github.com:h-hakim/Tsar.git
+ 1045  git push -u origin master 
+ 1046  git ssh 
+ 1047  git key
+ 1048  git --help
+ 1049  git help -s
+ 1050  git help -a
+ 1051  cd ide_rsa.pub
+ 1052  cd ~/ .ssh/
+ 1053   cd 
+ 1054  ls
+ 1055  cd ~/ .ssh/
+ 1056   cd 
+ 1057  ls
+ 1058  ls -al ~/.ssh
+ 1059  ssh-agent sh -c 'ssh-add; ssh-add -L'
+ 1060  clear 
+ 1061   ls
+ 1062  cd Desktop
+ 1063  cd Code/42src
+ 1064  ls
+ 1065   cd tsar 
+ 1066  ls
+ 1067  git push 
+ 1068  git push git push --set-upstream origin master
+ 1069  git status
+ 1070  git remote add origin git@github.com:h-hakim/<tsar>.git
+ 1071  git remote add origin git@github.com:h-hakim/ .git
+ 1072  git rm 
+ 1073  git rm .git
+ 1074  git rm /.git
+ 1075  rm -rf .git
+ 1076  ls
+ 1077  ls
+ 1078  cd tsar 
+ 1079  git init
+ 1080  ls
+ 1081  git commit -m ""
+ 1082  git push 
+ 1083  git add -A
+ 1084  git commit -m""
+ 1085  git commit -m ""
+ 1086  git commit -m "fUCKoff"
+ 1087  ls
+ 1088  git remote --verbose [7ms]
+ 1089  git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/powerlevel10k\n
+ 1090  nano .zshrc
+ 1091  exec zsh
+ 1092  
+ 1093  p10k configure
+ 1094  ls
+ 1095  l
+ 1096  git status
+ 1097  git clone https://github.com/Bluegales/libft-pain.git
+ 1098  cd libft
+ 1099  cd ..
+ 1100  l
+ 1101  rm -rf .git
+ 1102  ls
+ 1103  cd libft
+ 1104  cd ..
+ 1105  cd libft-pain
+ 1106  checkout dev
+ 1107  git checkout dev
+ 1108  git pull
+ 1109  ./pain.sh
+ 1110  ls
+ 1111  sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"\n\n
+ 1112  ./pain.sh
+ 1113  pain.sh
+ 1114  pwd
+ 1115  painsh
+ 1116  run pain.sh
+ 1117  cd ..
+ 1118  ls
+ 1119  cd libft-pain
+ 1120  ls
+ 1121  cd libft
+ 1122  ls
+ 1123  quit
+ 1124  exit
+ 1125  ls
+ 1126  pain.sh 
+ 1127  open [ain.sh
+ 1128  open pain.sh
+ 1129  run pain
+ 1130  run 
+ 1131  ./ pain.sh
+ 1132  ls
+ 1133  git status
+ 1134  ls
+ 1135  cat > ft_calloc.c
+ 1136  ls
+ 1137  clear
+ 1138  cat > ft_strdup.c
+ 1139  ls
+ 1140  git status
+ 1141  git add -A
+ 1142  git status
+ 1143  git commit "another day at 42"
+ 1144  git commit -m "another day at 42"
+ 1145  clear 
+ 1146  git status
+ 1147  pwd
+ 1148  cd libft-pain
+ 1149  git status
+ 1150  cd libft
+ 1151  git status
+ 1152  git add -A
+ 1153  git commit 
+ 1154  git commit -m "another day at42"
+ 1155  ls
+ 1156  git push -a
+ 1157  git push -A
+ 1158  git push 
+ 1159  ls
+ 1160  run libft-pain
+ 1161  libft-pain
+ 1162  ls
+ 1163  pain.sh
+ 1164  open pain.sh
+ 1165  gcc pain.sh
+ 1166  ./ pain.sh
+ 1167  sh pain.h
+ 1168  ls
+ 1169  bash scrit -pain.sh
+ 1170  ls
+ 1171  open ft_substr
+ 1172  cat > ft_substr.c
+ 1173  ls 
+ 1174  open ft_substr.c
+ 1175  ls 
+ 1176  norminette ft_substr.c
+ 1177  ls
+ 1178  git status
+ 1179  git add -A
+ 1180  make
+ 1181  ls
+ 1182  gcc -Wall -Werror libft /.c
+ 1183  gcc -Wall -Werror libft/.c
+ 1184  cat > Makefile
+ 1185  pwd
+ 1186  cd libft
+ 1187  ls
+ 1188  git status 
+ 1189  git add -A
+ 1190  git commit -m "another day at 42"
+ 1191  git push 
+ 1192  make 
+ 1193  make
+ 1194  make clean 
+ 1195  make 
+ 1196  make clean 
+ 1197  make 
+ 1198  ls
+ 1199  ./pain.sh
+ 1200  ls 
+ 1201  pwd
+ 1202  cd libft
+ 1203  make
+ 1204  make fclean
+ 1205  make
+ 1206  cd ..
+ 1207  ./pain.sh
+ 1208  git clone https://github.com/Alphacharge/libft_tester_manager.git
+ 1209  ls
+ 1210  rm -rf libft_tester_manager
+ 1211  ls
+ 1212  git clone https://github.com/y3ll0w42/libft-war-machine
+ 1213  ls
+ 1214  bash grademe.sh
+ 1215  cd libft-war-machine
+ 1216  bash grademe.sh
+ 1217  ls
+ 1218  ./grademe.sh ft_strlcat
+ 1219  man strlcat
+ 1220  ./grademe.sh ft_strlcat
+ 1221  man strlcat
+ 1222  ./grademe.sh ft_strlcat
+ 1223  ls
+ 1224  gcc ft_strlcat.c
+ 1225  make
+ 1226  clear
+ 1227  gcc ft_strlcat.c
+ 1228  ./a.out
+ 1229  gcc ft_strlcat.c
+ 1230  ./a.out
+ 1231  gcc ft_strlcat.c
+ 1232  ./a.out
+ 1233  ls
+ 1234  cd libft
+ 1235  ls
+ 1236  cd francinette
+ 1237  ls
+ 1238  cd ..
+ 1239  ls
+ 1240  paco
+ 1241  ls
+ 1242  cd ..
+ 1243  ls
+ 1244  cd ..
+ 1245  ls
+ 1246  cd 42-libft
+ 1247  git init
+ 1248  ls
+ 1249  clear
+ 1250  git add origin https://github.com/h-hakim/42-libft-prject-.git
+ 1251  git remote add origin https://github.com/h-hakim/42-libft-prject-.git
+ 1252  ls
+ 1253  cat > ft_test.c
+ 1254  ls
+ 1255  git status
+ 1256  git add -A
+ 1257  git commit -m "this is a test" 
+ 1258  git push 
+ 1259  git push --set-upstream origin master
+ 1260  git clone https://github.com/h-hakim/42-libft-prject-.git
+ 1261  ls
+ 1262  git status
+ 1263  git commit -m ""
+ 1264  git add -A
+ 1265  ls
+ 1266  git status
+ 1267  git push 
+ 1268  ls
+ 1269  rm -rf 42-libft
+ 1270  ld
+ 1271  ls
+ 1272  mkdir 42-test
+ 1273  cd 42-test
+ 1274  ls
+ 1275  git clone https://github.com/h-hakim/42-libft-prject-.git
+ 1276  cat > ft_test.c
+ 1277  sls
+ 1278  ls
+ 1279  git status
+ 1280  ls
+ 1281  git status
+ 1282  ls
+ 1283  git status
+ 1284  git add -A
+ 1285  git status
+ 1286  git commit -m ""
+ 1287  git commit -m " "
+ 1288  git commit -m
+ 1289  git commit
+ 1290  git commit -m "42"
+ 1291  git push 
+ 1292  cd ..
+ 1293  ls
+ 1294  git status
+ 1295  ls 
+ 1296  ls
+ 1297  git status
+ 1298  ls
+ 1299  rm -rf 42-libft-prject-
+ 1300  ls
+ 1301  git status
+ 1302  git add -A
+ 1303  git commit -m "   "
+ 1304  git commit -m "t"
+ 1305  git push 
+ 1306  git push --help
+ 1307  ls
+ 1308  git remote 
+ 1309  git remote --help
+ 1310  git remot -https://github.com/h-hakim/42-libft-prject-.git
+ 1311  git remote -set https://github.com/h-hakim/42-libft-prject-.git
+ 1312  git remote set -https://github.com/h-hakim/42-libft-prject-.git
+ 1313  git remote set-url --aa test https://github.com/h-hakim/42-libft-prject-.git
+ 1314  git remote set-url --add test https://github.com/h-hakim/42-libft-prject-.git
+ 1315  git remote set-url --aa 42-libft-prject-\n https://github.com/h-hakim/42-libft-prject-.git
+ 1316  clear 
+ 1317  git clone https://github.com/h-hakim/42-libft-prject-.git
+ 1318  git status
+ 1319  git add -A
+ 1320  git commit -m
+ 1321  git commit -m "test"
+ 1322  git push 
+ 1323  git push https://github.com/h-hakim/42-libft-prject-.git
+ 1324  ls
+ 1325  cd ..
+ 1326  ls
+ 1327  cd ..
+ 1328  ls
+ 1329  cd Desktop
+ 1330  ls 
+ 1331  ls
+ 1332  cd 42src
+ 1333  ls
+ 1334  cd libft-pain
+ 1335  ls
+ 1336  cd Desktop
+ 1337  cd Code
+ 1338  ls
+ 1339  cd test
+ 1340  ls 
+ 1341  git init
+ 1342  cat > testfile.c
+ 1343  ls
+ 1344  git status
+ 1345  git commit " tets"
+ 1346  git commit -m "tests"
+ 1347  git add -A
+ 1348  git commit -m "tests"
+ 1349  git branch 
+ 1350  git branch -M main 
+ 1351  git remote add origin https://github.com/h-hakim/Vs-test.git
+ 1352  git push -u origin main
+ 1353  git status
+ 1354  ls
+ 1355  ls 
+ 1356  rm -rf test
+ 1357  ls
+ 1358  git status
+ 1359  ls
+ 1360  cd 42src
+ 1361  ls
+ 1362  cd 42_piscine
+ 1363  ls
+ 1364  mkdir C00 C01 C02 C03 C04 C05 C06 C07 C08
+ 1365  ls
+ 1366  cd C00
+ 1367  ls
+ 1368  cd C00
+ 1369  ls
+ 1370  cat > ft_putchar.c ft_print_alphabet.c ft_print reverse_alphabet.c
+ 1371  touch ft_print_alphabet.c ft_print_reverse_alphabet.c
+ 1372  touch ft_print_numbers.c ft_is_negative.c ft_print_comb.c ft_print_comb2.c ft_putnbr.c ft_print_combn.c
+ 1373  clear
+ 1374  ls
+ 1375  cd ..
+ 1376  ./pain.sh
+ 1377  ls
+ 1378  make
+ 1379  ./pain.sh
+ 1380  make
+ 1381  cd ..
+ 1382  ls
+ 1383  cd libft-pain
+ 1384  ls
+ 1385  cd libft
+ 1386  ls
+ 1387  make
+ 1388  ./pain.sh
+ 1389  man memcmp 
+ 1390  make clean 
+ 1391  make clean -rf
+ 1392  make clean -o
+ 1393  ls
+ 1394  cd libft
+ 1395  make clean
+ 1396  ls
+ 1397  clear
+ 1398  mam memcmp
+ 1399  man memcmp
+ 1400  la
+ 1401  ls
+ 1402  ./pain.sh
+ 1403  clear 
+ 1404  ./pain.sh
+ 1405  clear
+ 1406  ls
+ 1407  cd libft
+ 1408  ls
+ 1409  git status
+ 1410  ls
+ 1411  ./pain.sh
+ 1412  ls
+ 1413  cd .. 
+ 1414  ls 
+ 1415  cd libft-pain
+ 1416  ls
+ 1417  ./pain.sh
+ 1418  ls 
+ 1419  ./pain.sh
+ 1420  clear
+ 1421  git status
+ 1422  clear
+ 1423  man strlcat
+ 1424  pwd
+ 1425  ls
+ 1426  gcc playbook.c
+ 1427  clear
+ 1428  gcc playbook.c
+ 1429  clear
+ 1430  gcc playbook.c
+ 1431  ./a
+ 1432  gcc playbook.c
+ 1433  ./a.out
+ 1434  clear
+ 1435  gcc playbook.c
+ 1436  ./a.out
+ 1437  gcc playbook.c
+ 1438  ./a.out
+ 1439  ls
+ 1440  ./pain.sh
+ 1441  man strlen
+ 1442  ./pain.sh
+ 1443  man strncat 
+ 1444  ./pain.sh
+ 1445  ls
+ 1446  grademe.sh
+ 1447  ./grademe.sh
+ 1448  make 
+ 1449  ./grademe.sh
+ 1450  clear
+ 1451  ./grademe.sh
+ 1452  ./pain.sh
+ 1453  ls
+ 1454  ./pain.sh
+ 1455  ls
+ 1456  grademe.sh
+ 1457  la
+ 1458  ls
+ 1459  ./grademe.sh
+ 1460  pwd
+ 1461  ./grademe.sh
+ 1462  cd..
+ 1463  ls
+ 1464  ./grademe.sh
+ 1465  pwd
+ 1466  ./grademe.sh
+ 1467  ls
+ 1468  ./grademe.sh
+ 1469  ls 
+ 1470  ls
+ 1471  cd libft
+ 1472  s
+ 1473  make
+ 1474  ls
+ 1475  ./grademe.sh
+ 1476  clear 
+ 1477  ls
+ 1478  pwd
+ 1479  ls
+ 1480  ..
+ 1481  ls
+ 1482  ./grademe.sh
+ 1483  ls
+ 1484  cat deepthought
+ 1485  ../libft
+ 1486  ../libft-war-machine
+ 1487  ./grademe.sh
+ 1488  ../libft
+ 1489  pwd
+ 1490  ../libft-war-machine
+ 1491  ./grademe.sh
+ 1492  ../libft-war-machine
+ 1493  ./grademe.sh
+ 1494  make
+ 1495  make re
+ 1496  make clean
+ 1497  clear 
+ 1498  ls
+ 1499  git status
+ 1500  git add -A
+ 1501  git commit "another day at 42"
+ 1502  git commit  -m "another day at 42"
+ 1503  git push 
+ 1504  ls
+ 1505  cp -r libft ../42src
+ 1506  cp -r ../libft ../42src 
+ 1507  clear 
+ 1508  ls
+ 1509  cp -r ../libft ../42src 
+ 1510  cp -r libft ../42src 
+ 1511  ls
+ 1512  cd ..
+ 1513  ls
+ 1514  cd libft
+ 1515  ls
+ 1516  cd libft-war-machine
+ 1517  ls
+ 1518  cd libft-war-machine
+ 1519  ./grademe.sh
+ 1520  ls
+ 1521  bash grademe.sh
+ 1522  man memcpy
+ 1523  bash grademe.sh
+ 1524  ls
+ 1525  grademe.sh
+ 1526  ./grademe.sh
+ 1527  ls
+ 1528  bash grademe.sh
+ 1529  ./ bash grademw.sh
+ 1530  cd ..
+ 1531  ls
+ 1532  cd libft
+ 1533  ls
+ 1534  rm -rf libft-war-machine
+ 1535  ls
+ 1536  git clone https://github.com/0x050f/libft-war-machine.git
+ 1537  ls
+ 1538  clear
+ 1539  ls
+ 1540  bash grademe.sh
+ 1541  clear
+ 1542  bash grademe.sh
+ 1543  ls
+ 1544  cd libft-war-machine
+ 1545  ls
+ 1546  ./ grademe.sh
+ 1547  ls
+ 1548  rm -rf ./git
+ 1549  ls
+ 1550  rm -rf /.git
+ 1551  ls
+ 1552  pwd
+ 1553  cd ..
+ 1554  ls
+ 1555  pwd
+ 1556  cd ..
+ 1557  ls
+ 1558  git clone ^[[200~https://github.com/xicodomingues/fra
+ 1559  git clone https://github.com/xicodomingues/francinette.git
+ 1560  ls
+ 1561  cd libft
+ 1562  francinette
+ 1563  git clone https://github.com/xicodomingues/francinette.git
+ 1564  francinette
+ 1565  cd ..
+ 1566  ls
+ 1567  francinette
+ 1568  ls
+ 1569  cd ..
+ 1570  ls
+ 1571  francinette
+ 1572  ls
+ 1573  cd ..
+ 1574  ls
+ 1575  cd libft
+ 1576  ls
+ 1577  cd francinette
+ 1578  cd ..
+ 1579  rm francinette
+ 1580  rm -d francinette
+ 1581  rm -r francinette
+ 1582  bash -c "$(curl -fsSL https://raw.github.com/xicodomingues/francinette/master/bin/install.sh)"
+ 1583  francinette
+ 1584  pwd
+ 1585  ls
+ 1586  cd ..
+ 1587  francinette
+ 1588  cd ..
+ 1589  ls
+ 1590  rm -r francinette
+ 1591  ls
+ 1592  pwd
+ 1593  cd libft
+ 1594  ls
+ 1595  rm libft-war-machine
+ 1596  rm -rf libft-war-machine
+ 1597  ls
+ 1598  make
+ 1599  rm *.o
+ 1600  ~ $> francinette -u              # Forces francinette to update
+ 1601  bash -c "$(curl -fsSL https://raw.github.com/xicodomingues/francinette/master/bin/update.sh)"
+ 1602  ls
+ 1603  francinette
+ 1604  paco
+ 1605  pwd
+ 1606  alias francinette="$HOME"/francinette/tester.sh
+ 1607  francinette
+ 1608  clear
+ 1609  ls
+ 1610  francinette
+ 1611  paco
+ 1612  francinette
+ 1613  pwd
+ 1614  cd ..
+ 1615  pwd
+ 1616  ls
+ 1617  git clone https://github.com/alelievr/libft-unit-test.git
+ 1618  pwd
+ 1619  ls
+ 1620  cd ../libft
+ 1621  make f
+ 1622  ls
+ 1623  make f
+ 1624  cd ../libft-unit-test
+ 1625  make f
+ 1626  francinette
+ 1627  ls
+ 1628  cd libft
+ 1629  francinette
+ 1630  ls
+ 1631  ../libft-unit-test
+ 1632  make f
+ 1633  clear
+ 1634  make f
+ 1635  ls
+ 1636  cd /libft
+ 1637  cd ../ libft
+ 1638  ls
+ 1639  francinette
+ 1640  ls
+ 1641  git status
+ 1642  ls
+ 1643  make clean 
+ 1644  ls
+ 1645  git status
+ 1646  git commit -m "more fixing @42" 
+ 1647  git commit -m "42"
+ 1648  git add ft_memcpy.c ft_strlcat.c libft.h
+ 1649  git commit -m "42"
+ 1650  git push
+ 1651  git status
+ 1652  ls
+ 1653  francinette
+ 1654  clear
+ 1655  francinette
+ 1656  clear 
+ 1657  ls
+ 1658  francinette
+ 1659  ls
+ 1660  cd libft
+ 1661  ls
+ 1662  cd libft
+ 1663  ld
+ 1664  ls
+ 1665  franc
+ 1666  francinette
+ 1667  clear
+ 1668  francinette
+ 1669  ls
+ 1670  clear 
+ 1671  francinette
+ 1672  ls  
+ 1673  clear
+ 1674  francinette
+ 1675  clear 
+ 1676  norminette ft_strlcpy.c
+ 1677  git status
+ 1678  clear
+ 1679  cd 
+ 1680  ls
+ 1681  ls -a
+ 1682  ls
+ 1683  cd Desktop/Code/42src
+ 1684  ls
+ 1685  cd libft
+ 1686  ls
+ 1687  git status
+ 1688  clear
+ 1689  francinette
+ 1690  ls
+ 1691  cd libft
+ 1692  francinette
+ 1693  ls
+ 1694  cd libft
+ 1695  ls
+ 1696  francinette
+ 1697  norminette ft_strrchr.c
+ 1698  clear
+ 1699  francinette
+ 1700  cd ..
+ 1701  ls
+ 1702  cd libft-old/
+ 1703  ls
+ 1704  gcc playbook.c && ./a.out
+ 1705  man substr
+ 1706  gcc playbook.c && ./a.out
+ 1707  ls
+ 1708  cd ..
+ 1709  ls
+ 1710  cd libft
+ 1711  LS
+ 1712  francinette
+ 1713  cd ..
+ 1714  clear
+ 1715  cd libft-old
+ 1716  gcc playbook.c -g 
+ 1717  ./a.out
+ 1718  gcc playbook.c -g 
+ 1719  ./a.out
+ 1720  gcc playbook.c -g 
+ 1721  ./a.out
+ 1722  make re
+ 1723  ./francinette
+ 1724  ls\\nccc
+ 1725  ls
+ 1726  ./francinette
+ 1727  francinette
+ 1728  gcc playbook.c --sanitize=leaks
+ 1729  gcc playbook.c -fsanitize=leaks
+ 1730  gcc playbook.c -fsanitize=leak
+ 1731  gcc playbook.c -fsanitize=leak --llsan
+ 1732  gcc -fsanitize=leaks playbook.c
+ 1733  gcc -fsanitize=leak playbook.c
+ 1734  gcc -fsanitize=leak playbook.c --llsan
+ 1735  francinette
+ 1736  gcc playbook.c && ./a.out
+ 1737  francinette
+ 1738  gcc playbook.c && ./a.out
+ 1739  clear
+ 1740  make re
+ 1741  man strlen
+ 1742  francinette
+ 1743  ls
+ 1744  cd libft
+ 1745  ls
+ 1746  git status
+ 1747  make clean 
+ 1748  ls
+ 1749  clear
+ 1750  francinette
+ 1751  man substr
+ 1752  francinette
+ 1753  clear
+ 1754  francinette
+ 1755  clear
+ 1756  ls
+ 1757  francinette ft_substr.c
+ 1758  francinette 
+ 1759  francinette ft_substr.c
+ 1760  francinette 
+ 1761  clear
+ 1762  francinette 
+ 1763  clear
+ 1764  francinette 
+ 1765  ls
+ 1766  norminette
+ 1767  clear
+ 1768  ls
+ 1769  git status 
+ 1770  clear
+ 1771  ls
+ 1772  git status
+ 1773  francinette 
+ 1774  clear 
+ 1775  ls
+ 1776  francinette
+ 1777  clear
+ 1778  francinette
+ 1779  clear
+ 1780  francinette
+ 1781  clear
+ 1782  ls
+ 1783  francinette
+ 1784  clear
+ 1785  francinette
+ 1786  paco
+ 1787  ls
+ 1788  clear
+ 1789  ls 
+ 1790  cd libft
+ 1791  ls
+ 1792  francinette
+ 1793  ls
+ 1794  cd libft
+ 1795  ls
+ 1796  francinette
+ 1797  clear
+ 1798  ls
+ 1799  clear 
+ 1800  francinette
+ 1801  ؤمثشق 
+ 1802  clear 
+ 1803  francinette
+ 1804  norminette
+ 1805  clear
+ 1806  ls
+ 1807  ls 
+ 1808  ls
+ 1809  echo > ft_strjoin.c
+ 1810  ls
+ 1811  man strjoin
+ 1812  francinette
+ 1813  man strlcat
+ 1814  ls
+ 1815  cd libft
+ 1816  francinette
+ 1817  cleaer
+ 1818  clear
+ 1819  ls
+ 1820  cat > ft_strtrim.c
+ 1821  ls
+ 1822  francinette
+ 1823  clear
+ 1824  francinette
+ 1825  ls
+ 1826  cd libft
+ 1827  ls
+ 1828  git status
+ 1829  git add ft_strjoin.c ft_strtrim.c
+ 1830  git status
+ 1831  git add /.c /.h Make
+ 1832  git add .c
+ 1833  git add /.c
+ 1834  francinette
+ 1835  clear
+ 1836  git status
+ 1837  git commit -m "another day at 42"
+ 1838  git add -A
+ 1839  git status
+ 1840  git restore --staged francinette
+ 1841  git status
+ 1842  git restore --staged libft.a
+ 1843  git status
+ 1844  francinette
+ 1845  francinette ft_strtrim.c
+ 1846  francinette
+ 1847  clear
+ 1848  norminette 
+ 1849  ls
+ 1850  cd libft
+ 1851  ls
+ 1852  git status
+ 1853  git add ft_strtrim.c ft_substr.c
+ 1854  ls
+ 1855  git status
+ 1856  ls
+ 1857  git status
+ 1858  man ft_split
+ 1859  francinette
+ 1860  cd libft
+ 1861  clear 
+ 1862  ls
+ 1863  git status
+ 1864  ls
+ 1865  git status
+ 1866  git add ft_split.c
+ 1867  git commit -m "another day at 42"
+ 1868  git status
+ 1869  git commit -m "another day at 42"
+ 1870  git push 
+ 1871  git pull https://github.com/h-hakim/42_libft.git
+ 1872  git status
+ 1873  git push 
+ 1874  git commit -m "another day at 42"
+ 1875  francinette
+ 1876  clear
+ 1877  ls
+ 1878  git status
+ 1879  git commit -m "another day at 42"
+ 1880  clear 
+ 1881  ls
+ 1882  francinette
+ 1883  clear 
+ 1884  francinette
+ 1885  clear && gcc -g main.c ft_split && ./a.out
+ 1886  clear && gcc -g main.c ft_split.c && ./a.out
+ 1887  clear && gcc -g main.c ft_split.c ft_putendl_fd.c && ./a.out
+ 1888  clear && gcc -g main.c ft_split.c && ./a.out
+ 1889  clear && gcc -g main.c ft_split.c ft_strlen.c ft_strtrim.c && ./a.out
+ 1890  lldb
+ 1891  lldb ./a.out
+ 1892  clear && gcc -g main.c ft_split.c ft_strlen.c ft_strtrim.c && ./a.out
+ 1893  lldb ./a.out
+ 1894  clear && gcc -g main.c ft_split.c ft_strlen.c ft_strtrim.c && ./a.out
+ 1895  lldb ./a.out
+ 1896  clear && gcc -g main.c ft_split.c ft_strlen.c ft_strtrim.c && ./a.out
+ 1897  r
+ 1898  clear && gcc -g main.c ft_split.c ft_strlen.c ft_strtrim.c && ./a.out
+ 1899  b malloc_error_break
+ 1900  clear && gcc -g main.c ft_split.c ft_strlen.c ft_strtrim.c && ./a.out
+ 1901  lldb ./a.out
+ 1902  clear && gcc -g main.c ft_split.c ft_strlen.c ft_strtrim.c && ./a.out
+ 1903  lldb ./a.out
+ 1904  clear && gcc -g main.c ft_split.c ft_strlen.c ft_strtrim.c && ./a.out
+ 1905  lldb ./a.out
+ 1906  clear && gcc -g main.c ft_split.c ft_strlen.c ft_strtrim.c && ./a.out
+ 1907  lldb ./a.out
+ 1908  clear 
+ 1909  ls
+ 1910  cat > ft_strmapi.c
+ 1911  clear
+ 1912  cat > ft_itoa.c
+ 1913  ls
+ 1914  norminette ft_itoa.c
+ 1915  clear 
+ 1916  cat > ft_striteri.c
+ 1917  norminette ft_striteri.c
+ 1918  clear 
+ 1919  norminette ft_striteri.c
+ 1920  clear 
+ 1921  cat > ft_putchar_fd.c
+ 1922  ls
+ 1923  git status
+ 1924  clear 
+ 1925  cat > ft_putstr_fd.c
+ 1926  cleara 
+ 1927  clear 
+ 1928  cat > ft_putendl_fd.c
+ 1929  norminette ft_putendl_fd.c
+ 1930  cat > ft_putnbr_fd.c
+ 1931  make CFLAGS="-Wall -Wextra -Werror -g" re
+ 1932  gcc -g main.c libft.a
+ 1933  ls
+ 1934  git status
+ 1935  js
+ 1936  ls
+ 1937  gcc ft_split.c
+ 1938  gcc ft_split.c *.h
+ 1939  cd libft
+ 1940  gcc ft_split.c *.h
+ 1941  gcc ft_split.c ft_strlen.c *.h
+ 1942  gcc ft_split.c ft_strlen.c ft_strtrim.c *.h
+ 1943  pwd
+ 1944  clear
+ 1945  ls
+ 1946  make clean 
+ 1947  ls
+ 1948  make fclean
+ 1949  ls
+ 1950  git status
+ 1951  git add ft_itoa.c ft_putchar_fd.c ft_putendl_fd.c ft_putnbr_fd.c ft_putstr_fd.c ft_striteri.c ft_strmapi.c
+ 1952  git staus
+ 1953  git status
+ 1954  git commit -m "another day at 42 " 
+ 1955  git status
+ 1956  git add ft_split.c
+ 1957  git add Makefile
+ 1958  git status
+ 1959  git add libft.h
+ 1960  git commit -m "anotehr day at 42"
+ 1961  git push 
+ 1962  git pull 
+ 1963  git staus
+ 1964  git status
+ 1965  git commit -m "another day at 42"
+ 1966  git push 
+ 1967  clear 
+ 1968  make
+ 1969  make re
+ 1970  clear 
+ 1971  make f clean 
+ 1972  make fclean
+ 1973  ls
+ 1974  francinette
+ 1975  clear 
+ 1976  clear
+ 1977  cat > testsplit.c
+ 1978  ls
+ 1979  open testsplit.c
+ 1980  cd libft
+ 1981  ls
+ 1982  norminette ft_split.c
+ 1983  clear 
+ 1984  francinette
+ 1985  clear 
+ 1986  francinette
+ 1987  ls
+ 1988  make
+ 1989  gcc libft.a ft_split.c
+ 1990  ./a.out
+ 1991  gcc libft.a ft_split.c
+ 1992  ./a.out
+ 1993  gcc libft.a ft_split.c
+ 1994  ./a.out
+ 1995  gcc libft.a ft_split.c
+ 1996  ./a.out
+ 1997  gcc libft.a ft_split.c
+ 1998  ./a.out
+ 1999  gcc libft.a ft_split.c
+ 2000  ./a.out
+ 2001  gcc libft.a ft_split.c
+ 2002  ./a.out
+ 2003  gcc libft.a ft_split.c
+ 2004  ./a.out
+ 2005  gcc libft.a ft_split.c
+ 2006  ./a.out
+ 2007  gcc libft.a ft_split.c
+ 2008  ./a.out
+ 2009  gcc libft.a ft_split.c
+ 2010  ./a.out
+ 2011  gcc libft.a ft_split.c
+ 2012  ./a.out
+ 2013  gcc libft.a ft_split.c
+ 2014  ./a.out
+ 2015  gcc libft.a ft_split.c
+ 2016  ./a.out
+ 2017  gcc libft.a ft_split.c
+ 2018  ./a.out
+ 2019  gcc libft.a ft_split.c
+ 2020  ./a.out
+ 2021  gcc libft.a ft_split.c
+ 2022  ./a.out
+ 2023  gcc libft.a ft_split.c
+ 2024  ./a.out
+ 2025  gcc libft.a ft_split.c
+ 2026  ./a.out
+ 2027  df
+ 2028  gcc libft.a ft_split.c
+ 2029  df
+ 2030  ./a.out
+ 2031  df
+ 2032  gcc libft.a ft_split.c
+ 2033  ./a.out
+ 2034  gcc libft.a ft_split.c
+ 2035  ./a.out
+ 2036  gcc libft.a ft_split.c
+ 2037  ./a.out
+ 2038  gcc libft.a ft_split.c
+ 2039  ./a.out
+ 2040  gcc libft.a ft_split.c
+ 2041  ./a.out
+ 2042  gcc libft.a ft_split.c
+ 2043  ./a.out
+ 2044  gcc libft.a ft_split.c
+ 2045  ./a.out
+ 2046  gcc libft.a ft_split.c
+ 2047  ./a.out
+ 2048  gcc libft.a ft_split.c
+ 2049  ./a.out
+ 2050  gcc libft.a ft_split.c
+ 2051  ./a.out
+ 2052  gcc libft.a ft_split.c
+ 2053  ./a.out
+ 2054  gcc libft.a ft_split.c
+ 2055  ./a.out
+ 2056  gcc libft.a ft_split.c
+ 2057  ./a.out
+ 2058  gcc libft.a ft_split.c
+ 2059  ./a.out
+ 2060  gcc libft.a ft_split.c
+ 2061  ./a.out
+ 2062  gcc libft.a ft_split.c
+ 2063  ./a.out
+ 2064  gcc libft.a ft_split.c
+ 2065  ./a.out
+ 2066  gcc libft.a ft_split.c
+ 2067  ./a.out
+ 2068  gcc libft.a ft_split.c
+ 2069  ./a.out
+ 2070  gcc libft.a ft_split.c
+ 2071  ./a.out
+ 2072  gcc libft.a ft_split.c
+ 2073  ./a.out
+ 2074  gcc libft.a ft_split.c
+ 2075  ./a.out
+ 2076  gcc libft.a ft_split.c
+ 2077  ./a.out
+ 2078  gcc libft.a ft_split.c
+ 2079  ./a.out
+ 2080  gcc libft.a ft_split.c
+ 2081  ./a.out
+ 2082  gcc libft.a ft_split.c
+ 2083  ./a.out
+ 2084  gcc libft.a ft_split.c
+ 2085  ./a.out
+ 2086  gcc libft.a ft_split.c
+ 2087  ./a.out
+ 2088  gcc libft.a ft_split.c
+ 2089  ./a.out
+ 2090  gcc libft.a ft_split.c
+ 2091  ./a.out
+ 2092  gcc libft.a ft_split.c
+ 2093  ./a.out
+ 2094  gcc libft.a ft_split.c
+ 2095  ./a.out
+ 2096  gcc libft.a ft_split.c
+ 2097  ./a.out
+ 2098  gcc libft.a ft_split.c
+ 2099  ./a.out
+ 2100  gcc libft.a ft_split.c
+ 2101  ./a.out
+ 2102  gcc libft.a ft_split.c
+ 2103  ./a.out
+ 2104  gcc libft.a ft_split.c
+ 2105  ./a.out
+ 2106  gcc libft.a ft_split.c
+ 2107  ./a.out
+ 2108  gcc libft.a ft_split.c
+ 2109  ./a.out
+ 2110  gcc libft.a ft_split.c
+ 2111  ./a.out
+ 2112  gcc libft.a ft_split.c
+ 2113  ./a.out
+ 2114  gcc libft.a ft_split.c
+ 2115  ./a.out
+ 2116  gcc libft.a ft_split.c
+ 2117  ./a.out
+ 2118  gcc libft.a ft_split.c
+ 2119  ./a.out
+ 2120  gcc libft.a ft_split.c
+ 2121  ./a.out
+ 2122  gcc libft.a ft_split.c
+ 2123  ./a.out
+ 2124  gcc libft.a ft_split.c
+ 2125  ./a.out
+ 2126  gcc libft.a ft_split.c
+ 2127  ./a.out
+ 2128  gcc libft.a ft_split.c
+ 2129  ./a.out
+ 2130  gcc libft.a ft_split.c
+ 2131  ./a.out
+ 2132  gcc libft.a ft_split.c
+ 2133  ./a.out
+ 2134  gcc libft.a ft_split.c
+ 2135  ./a.out
+ 2136  gcc libft.a ft_split.c
+ 2137  ./a.out
+ 2138  gcc libft.a ft_split.c
+ 2139  ./a.out
+ 2140  gcc libft.a ft_split.c
+ 2141  ./a.out
+ 2142  gcc libft.a ft_split.c
+ 2143  ./a.out
+ 2144  gcc libft.a ft_split.c
+ 2145  ./a.out
+ 2146  gcc libft.a ft_split.c
+ 2147  ./a.out
+ 2148  gcc libft.a ft_split.c
+ 2149  ./a.out
+ 2150  gcc libft.a ft_split.c
+ 2151  ./a.out
+ 2152  gcc libft.a ft_split.c
+ 2153  ./a.out
+ 2154  gcc libft.a ft_split.c
+ 2155  ./a.out
+ 2156  gcc libft.a ft_split.c
+ 2157  ./a.out
+ 2158  clear 
+ 2159  gcc libft.a ft_split.c
+ 2160  clear 
+ 2161  gcc libft.a ft_split.c
+ 2162  ./a.out
+ 2163  gcc libft.a ft_split.c
+ 2164  ./a.out
+ 2165  gcc libft.a ft_split.c
+ 2166  ./a.out
+ 2167  gcc libft.a ft_split.c
+ 2168  ./a.out
+ 2169  gcc libft.a ft_split.c
+ 2170  ./a.out
+ 2171  gcc libft.a ft_split.c
+ 2172  ./a.out
+ 2173  gcc libft.a ft_split.c
+ 2174  ./a.out
+ 2175  gcc libft.a ft_split.c
+ 2176  ./a.out
+ 2177  gcc libft.a ft_split.c
+ 2178  ./a.out
+ 2179  gcc libft.a ft_split.c
+ 2180  ./a.out
+ 2181  gcc libft.a ft_split.c
+ 2182  ./a.out
+ 2183  gcc libft.a ft_split.c
+ 2184  ./a.out
+ 2185  gcc libft.a ft_split.c
+ 2186  cd 
+ 2187  pwd
+ 2188  cd Desktop/Code/libft
+ 2189  cd Desktop/Code/42src/libft
+ 2190  ld
+ 2191  ls
+ 2192  gcc libft.a ft_split.c
+ 2193  ./a.out
+ 2194  gcc libft.a ft_split.c
+ 2195  ./a.out
+ 2196  francinette
+ 2197  make fclean 
+ 2198  norminette ft_split.c
+ 2199  norminette
+ 2200  gcc ft_itoa.c
+ 2201  ./a.out
+ 2202  gcc ft_itoa.c
+ 2203  ./a.out
+ 2204  gcc ft_itoa.c
+ 2205  ./a.out
+ 2206  clear 
+ 2207  norminette ft_itoa.c
+ 2208  francinette
+ 2209  norminette ft_split.c ft_putnbr_fd.c
+ 2210  norminette ft_split.c
+ 2211  francinette
+ 2212  norminette ft_split.c
+ 2213  francinette
+ 2214  git status
+ 2215  git -ls
+ 2216  git log
+ 2217  git status
+ 2218  git restore a.out
+ 2219  git restore francinette
+ 2220  git push 
+ 2221  lear 
+ 2222  clear 
+ 2223  ls
+ 2224  make fclean 
+ 2225  ls
+ 2226  git status
+ 2227  ls
+ 2228  francinette
+ 2229  clear 
+ 2230  francinette
+ 2231  make fclean 
+ 2232  ls
+ 2233  francinette
+ 2234  clear 
+ 2235  francinette
+ 2236  norminette ft_substr.c
+ 2237  francinette
+ 2238  clear 
+ 2239  cd
+ 2240  paco
+ 2241  ls
+ 2242  cd Desktop
+ 2243  Code/42src/libft
+ 2244  ls
+ 2245  paco 
+ 2246  clear 
+ 2247  norminette
+ 2248  clear 
+ 2249  git commit -m "anothr day at 42"
+ 2250  git push 
+ 2251  git push https://github.com/h-hakim/42_libft.git
+ 2252  git push --force
+ 2253  ls
+ 2254  git push git@vogsphere.42heilbronn.de:vogsphere/intra-uuid-8b55153a-34c4-479a-821f-178054801060-4489122-hhakim
+ 2255  git clone git@vogsphere.42heilbronn.de:vogsphere/intra-uuid-8b55153a-34c4-479a-821f-178054801060-4489122-hhakim
+ 2256  ls 
+ 2257  cd intra-uuid-8b55153a-34c4-479a-821f-178054801060-4489122-hhakim
+ 2258  ls
+ 2259  git add -A
+ 2260  git commit -m "Libft"
+ 2261  git push 
+ 2262  ls
+ 2263  mkdir test 
+ 2264  cd test
+ 2265  git clone [200~git@vogsphere.42heilbronn.de:vogsphere/intra-uuid-8b55153a-34c4-479a-821f-178054801060-4489122-hhakim~
+ 2266  git clone git@vogsphere.42heilbronn.de:vogsphere/intra-uuid-8b55153a-34c4-479a-821f-178054801060-4489122-hhakim
+ 2267  cd .. 
+ 2268  ls
+ 2269  cd .. 
+ 2270  ls
+ 2271  cd evaluations
+ 2272  git clone git@vogsphere.42heilbronn.de:vogsphere/intra-uuid-394c7ee4-a50e-45c1-ac36-6b2d1ccf8bf5-4548080-ccompote
+ 2273  ld
+ 2274  ls
+ 2275  cd intra-uuid-394c7ee4-a50e-45c1-ac36-6b2d1ccf8bf5-4548080-ccompote
+ 2276  ls
+ 2277  norminette
+ 2278  make
+ 2279  ./server
+ 2280  ./client 2677 "hallo"
+ 2281  ./client 2677 "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras faucibus libero sit amet elementum congue. Suspendisse quam ante, ornare a tristique vel, euismod sit amet orci. Duis quis dolor eget ligula aliquet tincidunt vitae nec nulla. Phasellus ut mauris consectetur, vehicula purus ac, aliquet tortor. Nullam eleifend tempus velit at tristique. Donec a eleifend dolor. Sed volutpat augue faucibus, accumsan lorem et, molestie nisi. Quisque tincidunt metus sit amet semper cursus. Nulla placerat lectus quis commodo sodales. In sollicitudin libero a nisl maximus rhoncus.\n\nSed commodo tincidunt lorem, vehicula laoreet nunc. In sit amet finibus purus, nec porttitor velit. Integer maximus augue velit. Nunc tincidunt erat in malesuada iaculis. Pellentesque venenatis sed nunc quis placerat. Aenean quis aliquam justo. Duis laoreet bibendum metus, et tempor diam suscipit eget.\n\nMaecenas varius vel dolor ut mollis. Nulla dapibus eget augue et vehicula. Vestibulum sit amet turpis condimentum, posuere nunc at, sollicitudin nisi. Mauris vitae est vitae orci interdum tincidunt. Morbi eu efficitur justo. Curabitur luctus enim blandit, laoreet tellus quis, sollicitudin enim. Curabitur et nibh suscipit, ullamcorper velit non, congue lorem. Aliquam non dui aliquet, bibendum ante sed, malesuada ex. In pretium, ante ut fringilla pulvinar, augue libero congue ante, sed pulvinar sem leo ac urna. Quisque fermentum magna vel nisi convallis, rhoncus pulvinar odio mattis. Nulla consequat tincidunt vestibulum. Maecenas sed felis tempus, sollicitudin eros a, fermentum felis. Donec velit nisi, dictum et nisi nec, dapibus malesuada est. Vestibulum porta ex nunc, eu consequat justo ultricies vitae. Mauris lacus dolor, maximus non arcu at, rhoncus consectetur mauris. Fusce non dolor egestas, varius dolor at, auctor mauris.\n\nSed vestibulum justo ac condimentum efficitur. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur hendrerit eros at libero semper tincidunt a non turpis. Maecenas blandit pharetra erat et posuere. Phasellus at finibus ligula. Vivamus tincidunt elit ut imperdiet facilisis. Mauris hendrerit sit amet nibh eu cursus. Cras rutrum metus eu orci posuere, at suscipit neque malesuada. Morbi egestas dolor et libero lobortis vulputate. Ut pulvinar faucibus lorem ac dapibus. Phasellus condimentum quam hendrerit, interdum ante a, euismod elit. In et congue felis. Sed eget arcu a magna aliquam pharetra. Quisque ultricies ac erat eu interdum. Nullam pellentesque ut magna at egestas.\n\nNunc maximus id magna id dignissim. Aliquam erat volutpat. Quisque rutrum eleifend odio ut convallis. Vestibulum non erat augue. Vivamus in rutrum lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel purus ullamcorper, bibendum justo ut, interdum mi. Aliquam sed magna et quam pretium molestie. Maecenas iaculis pellentesque malesuada. Suspendisse porta tincidunt consectetur. Proin at viverra ante. Sed non dolor rhoncus, pretium ante nec, venenatis nisi. Phasellus convallis feugiat mollis.\n\nCras et euismod libero. Donec gravida posuere tellus, vel ultricies nisl. Mauris euismod ante quis varius sodales. Praesent at turpis condimentum urna bibendum euismod ultricies dignissim erat. Maecenas ullamcorper dapibus nisl ut eleifend. Vivamus tempor vulputate mauris, nec imperdiet ligula interdum ut. Etiam ornare finibus consectetur. Proin ac viverra tortor, eget facilisis lectus. Morbi non volutpat arcu. Proin tempus nibh lacinia nunc efficitur blandit. Ut a nunc et ligula consequat sollicitudin fringilla id enim. Cras tincidunt augue et feugiat auctor. Morbi molestie sapien a mi eleifend molestie. Nunc sagittis convallis ante at feugiat.\n\nAliquam cursus, enim et pellentesque aliquet, erat mi ornare justo, vitae sollicitudin risus tellus eu est. Curabitur lobortis auctor eros. Proin sed suscipit justo. Morbi tincidunt ligula at leo ultricies, lobortis malesuada dolor ultricies. Proin volutpat dui convallis nunc convallis, sed finibus tellus suscipit. Vivamus vulputate non felis ut dictum. Aliquam in arcu sed nunc pulvinar interdum id sed nunc. Curabitur luctus eu sapien eget scelerisque. Proin sit amet posuere lectus. Morbi et tortor ultricies, faucibus metus sit amet, consectetur odio. Suspendisse potenti. Vivamus vestibulum mattis gravida. Integer id dolor molestie, pharetra turpis in, sagittis nibh. Integer eget enim eu turpis molestie aliquam sit amet sit amet nulla. Ut non erat rutrum nunc sodales dictum sed eu turpis.\n\nEtiam dui leo, interdum quis tellus sed, finibus sollicitudin ligula. In hac habitasse platea dictumst. Vestibulum at maximus erat. Morbi mi erat, varius eget mauris at, placerat lacinia ligula. Nunc purus libero, vehicula nec ligula quis, hendrerit commodo arcu. Maecenas id nulla in odio rhoncus dictum sed a diam. Phasellus sit amet dapibus urna, sed sodales neque. Nulla non diam in metus volutpat aliquet. Cras vel libero nisi. Mauris vel risus rutrum, mattis odio eget, fringilla quis. "
+ 2282  ./client 2677 "hallo 👍 "
+ 2283  make clean 
+ 2284  make fclean 
+ 2285  make
+ 2286  clear 
+ 2287  ls 
+ 2288  echo ft_printf.c
+ 2289  ls
+ 2290  cd ..
+ 2291  ls
+ 2292  cd ft_printf
+ 2293  ls
+ 2294  cat ft_printf.c
+ 2295  echo > ft_printf.c
+ 2296  ls
+ 2297  open ft_printf.c
+ 2298  echo > ft_printf.h
+ 2299  ls
+ 2300  clear 
+ 2301  ls
+ 2302  cd ft_printf
+ 2303  ls
+ 2304  gcc testing.c
+ 2305  ./a.out
+ 2306  ls
+ 2307  gcc ft_printf.c
+ 2308  clear
+ 2309  gcc ft_printf.c
+ 2310  clear 
+ 2311  valgrind
+ 2312  ls
+ 2313  cd ft_printf
+ 2314  ls
+ 2315  ls 
+ 2316  norminette ft_printf.c
+ 2317  cat > ft_print_char_str_nbr.c
+ 2318  ls
+ 2319  ls 
+ 2320  ls
+ 2321  cd ft_printf
+ 2322  ls
+ 2323  make
+ 2324  make 
+ 2325  ls
+ 2326  make 
+ 2327  make
+ 2328  ls
+ 2329  make
+ 2330  gcc -c ft_parse_flags.c -o ft_parse_flags.o
+ 2331  make 
+ 2332  make re
+ 2333  make
+ 2334  rm ft_print_utils.o
+ 2335  make
+ 2336  make fclean
+ 2337  make
+ 2338  make re
+ 2339  clear 
+ 2340  ls 
+ 2341  norminette ft_print_pntrhexa.c
+ 2342  norminette
+ 2343  norminette ft_printf.h
+ 2344  make 
+ 2345  ls
+ 2346  cd libft
+ 2347  clear
+ 2348  make fclean
+ 2349  cd ..
+ 2350  make
+ 2351  make -C libft
+ 2352  make clean -C libft
+ 2353  make fclean -C libft
+ 2354  clear
+ 2355  ..
+ 2356  make
+ 2357  cd ..
+ 2358  ls
+ 2359  cd 42s
+ 2360  cd 42src
+ 2361  ls
+ 2362  cd ft_printf
+ 2363  clea
+ 2364  make
+ 2365  clear 
+ 2366  make
+ 2367  clear 
+ 2368  make
+ 2369  clear 
+ 2370  make
+ 2371  clear 
+ 2372  make
+ 2373  clear
+ 2374  make
+ 2375  clear
+ 2376  make
+ 2377  clear 
+ 2378  make clean 
+ 2379  clean
+ 2380  make clean 
+ 2381  make fclean 
+ 2382  clear 
+ 2383  make memcheck 
+ 2384  make clean 
+ 2385  clear 
+ 2386  make clean 
+ 2387  clean libft
+ 2388  clear
+ 2389  make
+ 2390  clean
+ 2391  make clean
+ 2392  make fclean
+ 2393  clear
+ 2394  make
+ 2395  make clean 
+ 2396  make fclean
+ 2397  clear
+ 2398  make fclean
+ 2399  make
+ 2400  make clean
+ 2401  make fclean
+ 2402  make clean all
+ 2403  ar rcs
+ 2404  clear
+ 2405  ,ake clean
+ 2406  clear
+ 2407  make 
+ 2408  mske
+ 2409  make
+ 2410  clear
+ 2411  make
+ 2412  ake
+ 2413  make
+ 2414  make clean
+ 2415  make fclean
+ 2416  make
+ 2417  make clean
+ 2418  make fclean
+ 2419  make re
+ 2420  make clean all
+ 2421  clear
+ 2422  ls
+ 2423  make fclean all
+ 2424  make fclean
+ 2425  make
+ 2426  make clean
+ 2427  make fclean
+ 2428  cp
+ 2429  man cp 
+ 2430  clear 
+ 2431  make
+ 2432  make fclean
+ 2433  make fclean -all
+ 2434  clear
+ 2435  man rcs
+ 2436  man ar
+ 2437  .cache_exits 
+ 2438  clear
+ 2439  man cache
+ 2440  clear
+ 2441  norminette
+ 2442  make
+ 2443  make re
+ 2444  make clean
+ 2445  make fclean
+ 2446  make fclean all
+ 2447  clear
+ 2448  ls
+ 2449  make clean 
+ 2450  make clean -rf
+ 2451  cleara
+ 2452  clear
+ 2453  make clean
+ 2454  make re
+ 2455  make clean re
+ 2456  make clean -rf
+ 2457  make -rf
+ 2458  make rm
+ 2459  make fclean -all
+ 2460  make fclean all
+ 2461  clean all
+ 2462  make clean all
+ 2463  make re
+ 2464  make clean
+ 2465  make
+ 2466  ls
+ 2467  ft_printf.o
+ 2468  ls
+ 2469  ft_printf.o
+ 2470  make
+ 2471  make re
+ 2472  ./out
+ 2473  gcc main.c
+ 2474  ./a.out
+ 2475  gcc ft_printf.c
+ 2476  -v
+ 2477  clang -v
+ 2478  clear
+ 2479  make
+ 2480  ./ou
+ 2481  ld
+ 2482  ls
+ 2483  mske
+ 2484  make
+ 2485  make re
+ 2486  ./ft_printf.a
+ 2487  make re
+ 2488  make fclean
+ 2489  make
+ 2490  cd ..
+ 2491  git clone https://github.com/zstenger93/ft_printf.git
+ 2492  git clone https://github.com/zstenger93/ft_printf.git asd
+ 2493  cd asd
+ 2494  make
+ 2495  cc printf.c ft_printf.a
+ 2496  cc ft_printf.c ft_printf.a
+ 2497  ./a.out
+ 2498  cc ft_printf.c libftprintf.a
+ 2499  ./a.out
+ 2500  make fclean
+ 2501  make
+ 2502  cc ft_printf.c libftprintf.a
+ 2503  cc ft_printf.c ft_printf.a
+ 2504  ./a.out
+ 2505  cc ft_printf.c ft_printf.a
+ 2506  ./a.out
+ 2507  cc ft_printf.c ft_printf.a
+ 2508  ./a.out
+ 2509  cc ft_printf.c ft_printf.a
+ 2510  ./a.out
+ 2511  clear
+ 2512  cc ft_printf.c ft_printf.a
+ 2513  ./a.out
+ 2514  ls
+ 2515  cd ft_printf
+ 2516  ls
+ 2517  make
+ 2518  cc ft_printf.c ft_printf.a
+ 2519  ./a.out
+ 2520  cc ft_printf.c ft_printf.a
+ 2521  ./a.out
+ 2522  cc ft_printf.c ft_printf.a
+ 2523  ./a.out
+ 2524  cc ft_printf.c ft_printf.a asd
+ 2525  man printf
+ 2526  clear
+ 2527  make
+ 2528  cc ft_printf.c ft_printf.a
+ 2529  ./a.out
+ 2530  cc ft_printf.c ft_printf.a
+ 2531  make
+ 2532  cc ft_printf.c ft_printf.a
+ 2533  ./a.out
+ 2534  ps
+ 2535  exiot
+ 2536  exit
+ 2537  cd asd
+ 2538  cd ../ft_printf
+ 2539  clear
+ 2540  ls
+ 2541  make
+ 2542  cc ft_printf.c ft_printf.a
+ 2543  ./a.out
+ 2544  clear
+ 2545  ls 
+ 2546  make
+ 2547  clear
+ 2548  make
+ 2549  cc ft_printf.c ft_printf.a
+ 2550  ./a.out
+ 2551  cc ft_printf.c ft_printf.a
+ 2552  ./a.out
+ 2553  cc ft_printf.c ft_printf.a
+ 2554  ./a.out
+ 2555  clear
+ 2556  ls
+ 2557  make clear 
+ 2558  make fclean
+ 2559  ls
+ 2560  rm a.out
+ 2561  ls
+ 2562  clear
+ 2563  ls
+ 2564  cd ft_printf
+ 2565  ls
+ 2566  cd ..
+ 2567  ls
+ 2568  cd ft_printf
+ 2569  ls
+ 2570  cd ..
+ 2571  ls
+ 2572  git clone git@vogsphere.42heilbronn.de:vogsphere/intra-uuid-34e95528-d2aa-47a9-95c9-06b37c873f16-4559888-hhakim
+ 2573  clear 
+ 2574  ls
+ 2575  cd intra-uuid-34e95528-d2aa-47a9-95c9-06b37c873f16-4559888-hhakim
+ 2576  ls
+ 2577  git status 
+ 2578  norminette
+ 2579  ls
+ 2580  norminette
+ 2581  clear
+ 2582  ls
+ 2583  cd ..
+ 2584  cd ft_printf
+ 2585  ;s
+ 2586  ls
+ 2587  git clone https://github.com/Tripouille/printfTester.git 
+ 2588  cd printfTester
+ 2589  ls
+ 2590  make
+ 2591  cd ..
+ 2592  ls
+ 2593  rm -rf printfTester
+ 2594  norminette
+ 2595  cd ../intra-uuid-34e95528-d2aa-47a9-95c9-06b37c873f16-4559888-hhakim
+ 2596  ls
+ 2597  norminette
+ 2598  make
+ 2599  make fclean
+ 2600  rm libftprintf.aclear
+ 2601  make
+ 2602  make fclean
+ 2603  git add .
+ 2604  cd libft
+ 2605  rm -rf .git
+ 2606  cd ..
+ 2607  git add .
+ 2608  git status
+ 2609  git commit -m "Eval"
+ 2610  git push
+ 2611  git clone git@vogsphere.42heilbronn.de:vogsphere/intra-uuid-34e95528-d2aa-47a9-95c9-06b37c873f16-4559888-hhakim
+ 2612  ls
+ 2613  cd libft
+ 2614  ls -a
+ 2615  cd ..
+ 2616  git add .
+ 2617  git commit -m "Eval"
+ 2618  git push
+ 2619  cd ..
+ 2620  cd smth
+ 2621  ls
+ 2622  clewar
+ 2623  clear
+ 2624  git clone git@vogsphere.42heilbronn.de:vogsphere/intra-uuid-34e95528-d2aa-47a9-95c9-06b37c873f16-4559888-hhakim fuck
+ 2625  cd fuck
+ 2626  ls
+ 2627  cd libft
+ 2628  ls
+ 2629  cd ..
+ 2630  make
+ 2631  make fclean
+ 2632  git add .
+ 2633  git commit -m "eval"
+ 2634  git push
+ 2635  clear
+ 2636  git clone git@vogsphere.42heilbronn.de:vogsphere/intra-uuid-34e95528-d2aa-47a9-95c9-06b37c873f16-4559888-hhakim bullshit
+ 2637  ls
+ 2638  cd bullshit
+ 2639  ls
+ 2640  make
+ 2641  cd ..
+ 2642  rm -rf fuck
+ 2643  ls -a
+ 2644  cd libft
+ 2645  find . -name .git
+ 2646  find . -name ".git"
+ 2647  ls -la
+ 2648  ls -la | grep ".g"
+ 2649  cd ..
+ 2650  ls
+ 2651  git add .
+ 2652  git commit -m "Eval"
+ 2653  git push -f 
+ 2654  ls
+ 2655  mkdir bullshit
+ 2656  cd bullshit
+ 2657  cd ..
+ 2658  rm -rf .git
+ 2659  cd bullshit
+ 2660  git init remote add origin git@vogsphere.42heilbronn.de:vogsphere/intra-uuid-34e95528-d2aa-47a9-95c9-06b37c873f16-4559888-hhakim
+ 2661  git init && git remote add origin git@vogsphere.42heilbronn.de:vogsphere/intra-uuid-34e95528-d2aa-47a9-95c9-06b37c873f16-4559888-hhakim
+ 2662  git add .
+ 2663  git commit -m "sdkfj"
+ 2664  git push --set-upsteram origin master
+ 2665  git push --set-upstream origin master
+ 2666  git push -f --set-upstream origin master
+ 2667  git push
+ 2668  rm -rf .git
+ 2669  cd ..
+ 2670  rm -rf bullshit
+ 2671  ls
+ 2672  mv libft libftttt
+ 2673  ls
+ 2674  git add .
+ 2675  git init 
+ 2676  git remote add origin git@vogsphere.42heilbronn.de:vogsphere/intra-uuid-34e95528-d2aa-47a9-95c9-06b37c873f16-4559888-hhakim 
+ 2677  git add .
+ 2678  git commit -m "shit"
+ 2679  git push
+ 2680  clear
+ 2681  ls
+ 2682  git status
+ 2683  ls
+ 2684  mv libftttt libft
+ 2685  git add .
+ 2686  git commit -m "okay"
+ 2687  git push
+ 2688  git clone git@vogsphere.42heilbronn.de:vogsphere/intra-uuid-34e95528-d2aa-47a9-95c9-06b37c873f16-4559888-hhakim 
+ 2689  cd intra-uuid-34e95528-d2aa-47a9-95c9-06b37c873f16-4559888-hhakim
+ 2690  ls
+ 2691  cd libft
+ 2692  ls
+ 2693  cd ..
+ 2694  make
+ 2695  clear
+ 2696  ls
+ 2697  make fclean
+ 2698  ls
+ 2699  git clone git@vogsphere.42heilbronn.de:vogsphere/intra-uuid-34e95528-d2aa-47a9-95c9-06b37c873f16-4559888-hhakim smth 
+ 2700  cd smth
+ 2701  ls
+ 2702  norminette
+ 2703  make 
+ 2704  ls
+ 2705  jmaalouf
+ 2706  ls
+ 2707  cd Desktop
+ 2708  cd ..
+ 2709  ls
+ 2710  cd Shared
+ 2711  ls
+ 2712  ext
+ 2713  exit
+ 2714  ls
+ 2715  lss
+ 2716  ls
+ 2717  git clone git@vogsphere.42heilbronn.de:vogsphere/intra-uuid-4369a263-2c41-4fd2-a9c6-d2fb1fa7cb17-4477866-ewozniak
+ 2718  ls
+ 2719  cd intra-uuid-4369a263-2c41-4fd2-a9c6-d2fb1fa7cb17-4477866-ewozniak
+ 2720  ld
+ 2721  ls
+ 2722  norminette
+ 2723  paco 
+ 2724  francinette
+ 2725  pwd
+ 2726  francinette
+ 2727  francinette strchr
+ 2728  clear 
+ 2729  francinette strchr
+ 2730  francinette
+ 2731  francinette memchr
+ 2732  clear 
+ 2733  francinette
+ 2734  francinette strnstr
+ 2735  clear
+ 2736  francinette
+ 2737  francinette atoi
+ 2738  francinette
+ 2739  francinette calloc
+ 2740  francinette
+ 2741  francinette strdup
+ 2742  francinette
+ 2743  clear
+ 2744  francinette substr
+ 2745  clear 
+ 2746  francinette substr
+ 2747  clear
+ 2748  francinette
+ 2749  francinette strmapi
+ 2750  francinette ft_striteri.c
+ 2751  clear
+ 2752  francinette striteri
+ 2753  clear
+ 2754  francinette strmapi
+ 2755  clear 
+ 2756  francinette
+ 2757  francinette memcmp
+ 2758  francinette
+ 2759  francinette memcmp
+ 2760  clear
+ 2761  francinette memcmp
+ 2762  clear
+ 2763  francinette 
+ 2764  pwd
+ 2765  francinette
+ 2766  clear
+ 2767  make
+ 2768  make clean
+ 2769  make fclean
+ 2770  make re
+ 2771  make clean re
+ 2772  make re
+ 2773  make clean 
+ 2774  make fclean
+ 2775  clear 
+ 2776  francinette
+ 2777  cleear 
+ 2778  clear
+ 2779  You must specify a machine to start, using the command line.\n\nUsage: VirtualBoxVM --startvm &lt;name|UUID&gt;\nStarts the VirtualBox virtual machine with the given name or unique identifier (UUID).\n\n\n\n\n
+ 2780  clear
+ 2781  kls
+ 2782  ls
+ 2783  ssh hhakim@localhost -p 4242
+ 2784  ls
+ 2785  ssh hhakim42@localhost -p 4242
+ 2786  clear 
+ 2787  ssh hhakim42@localhost -p 4242
+ 2788  clear
+ 2789  ls
+ 2790  ssh hhakim42@localhost -p 4242
+ 2791  localhost 
+ 2792  clear
+ 2793  ls
+ 2794  ssh hhakim@localhost -p 4242
+ 2795  ls
+ 2796  git clone git@vogsphere.42heilbronn.de:vogsphere/intra-uuid-059b80ee-bbdb-4660-9a0e-c0f876c03b5b-4609937-luntiet-
+ 2797  ls
+ 2798  cd lun
+ 2799  cd luntiet-
+ 2800  ls
+ 2801  make
+ 2802  make re
+ 2803  make fclean
+ 2804  norminette
+ 2805  make
+ 2806  ./pipex src/main.c "grep fd" "wc -l" outfile
+ 2807  cat outfile
+ 2808  < src/main.c grep fd | wc -l > outfile
+ 2809  cat outfile
+ 2810  < src/main.c
+ 2811  < src/main.c grep fd
+ 2812  < src/main.c grep fd | wc -l
+ 2813  < src/main.c grep fd | wc -l > outfile
+ 2814  < src/main.c grep fd | wc -l > newfile
+ 2815  ./pipex src/main.c "grep fd" "wc -l" newnew
+ 2816  cat newnew
+ 2817  ./pipex src/main.c "grep fd" "wc -l" newnew wwww
+ 2818  ./pipex src/main.c "grep fd" newnew
+ 2819  ./pipex
+ 2820  echo $ENV
+ 2821  echo $(ENV)
+ 2822  echo $(PATH)
+ 2823  echo $PATH
+ 2824  make bonus
+ 2825  ./pipex src/main.c "grep fd" "wc" "wc" output
+ 2826  cat output
+ 2827  < src/main.c grep fd | wc | wc > output
+ 2828  cat output
+ 2829  ./pipex here_doc EOF "wc -l" output
+ 2830  cat output
+ 2831  francinette
+ 2832  echo $(ENV)
+ 2833  make re
+ 2834  ./pipex
+ 2835  ./pipex ; s;
+ 2836  ./pipex ; s
+ 2837* ssh hhakim@localhost -p 4242
+ 2838* ./pipex ; s
+ 2839* su
+ 2840* sudo
+ 2841* sudo reboot
+ 2842* sudo
+ 2843* su
+ 2844* clear
